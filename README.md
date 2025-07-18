@@ -75,14 +75,3 @@ Choose function (radian input): 1
 Enter angle in radians: 1.57
 sin(1.57) = 0.999999
 ```
-
----
-
-## 🔮 Future Improvements
-✅ Support for degree to radian conversion
-
-📉 Show step-by-step solution previews
-
-⏱ Add history log for past calculations
-
-🌐 GUI version using Qt or web-based frontend
